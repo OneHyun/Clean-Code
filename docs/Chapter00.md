@@ -23,7 +23,6 @@
 ## 클린코드 책
 
 <img src="./src/certify.png" width="200" height="300"/>
-<img src="./src/certify-1.png" width="250" height="300" />
 
 ***
 
