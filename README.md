@@ -5,3 +5,5 @@
 [ Chapter 1. 1장 깨끗한 코드](./docs/Chapter01.md)
 
 [ Chapter 2. 2장 의미있는 이름 ](./docs/Chapter02.md)
+
+[ Chapter 3. 3장 함수 ](./docs/Chapter03.md)
