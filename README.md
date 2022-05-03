@@ -11,3 +11,5 @@
 [ Chapter 4. 4장 주석 ](./docs/Chapter04.md)
 
 [ Chapter 5. 5장 형식 맞추기 ](./docs/Chapter05.md)
+
+[ Chapter 6. 6장 객체와 자료 구조 ](./docs/Chapter06.md)
