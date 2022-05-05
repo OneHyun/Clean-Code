@@ -13,3 +13,5 @@
 [ Chapter 5. 5장 형식 맞추기 ](./docs/Chapter05.md)
 
 [ Chapter 6. 6장 객체와 자료 구조 ](./docs/Chapter06.md)
+
+[ Chapter 7. 7장 오류 처리 ](./docs/Chapter07.md)
